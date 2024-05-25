@@ -1,0 +1,16 @@
+Delete profile picture:
+%AppData%\Microsoft\Windows\AccountPictures
+
+Show the password:
+netsh wlan show profile
+netsh wlan show profile Nory key=clear
+
+Show properties:
+dxdiag
+
+
+Camera
+inUrl:/view/viewer_index.shml
+
+CMD
+ipconfig /all

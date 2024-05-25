@@ -1,0 +1,25 @@
+HTML Element Reference
+https://www.w3schools.com/tags/default.asp
+
+HTML Links
+https://www.w3schools.com/html/html_links.asp
+
+Spaces
+https://spaces.w3schools.com/space/anasattoum
+
+Icons, illustrations, photos, music, and design tools
+https://icons8.com/
+
+Colors
+https://www.canva.com/colors/
+https://www.w3schools.com/colors/colors_picker.asp
+
+HTML Color Names
+https://www.w3schools.com/colors/colors_names.asp
+
+
+Emoji Unicode Reference
+https://www.w3schools.com/charsets/ref_emoji.asp
+
+display
+https://www.w3schools.com/cssref/playit.asp?filename=playcss_display&preval=flex

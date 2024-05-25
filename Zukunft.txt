@@ -1,0 +1,20 @@
+CSSREF
+https://www.w3schools.com/cssref/playdemo.php?filename=playcss_overflow
+
+https://react.dev/learn/start-a-new-react-project
+
+https://create-react-app.dev/docs/getting-started/
+
+https://css-tricks.com/practical-css-scroll-snapping/
+
+
+
+
+Animation of order
+https://www.w3schools.com/cssref/tryit.php?filename=trycss_anim_order
+
+Image Modal
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_modal_js
+
+Button
+https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate2

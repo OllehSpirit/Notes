@@ -1,0 +1,53 @@
+Herzlich Willkommen zu Ihrem neuen Gerät! 
+Dies ist der 1. Start Ihres neuen Gerätes, und wir möchten es Ihnen so leicht wie möglich machen!
+
+Wir haben daher einige Informationen für Sie zusammengestellt, die oft gestellte Fragen beantworten bzw. Ihnen bei der Benutzung des Gerätes helfen können. Bitte nehmen Sie sich die Zeit diese zu lesen.
+
+1. Wie kann ich ausschalten, dass dieses Fenster bei jedem Start erscheint?
+Bitte entfernen Sie unten in diesem Fenster mit einem Klick den Haken bei "Beim nächsten Start anzeigen" und bestätigen Sie mit OK. 
+
+2. Wieso sind hier schon Programme wie z.B. Firefox installiert?
+Damit Sie sofort mit dem Gerät starten können, haben wir für Sie folgende Programme vorinstalliert:
+
+- Firefox (Internet Browser)
+- Microsoft Office 2010 Starter mit Word und Excel (Vollversion, siehe auch Punkt 4)
+
+Außerdem ist eine Hilfedatei auf dem Desktop hinterlegt wie Sie Windows neu installieren können, falls das einmal nötig werden sollte. 
+
+Das wars schon. Es ist nichts weiter vorinstalliert, keine Werbesoftware, keine Testversionen.
+Selbstverständlich können Sie diese 2 Programme jederzeit wieder deinstallieren wenn Sie sie nicht benötigen.
+
+Desweiteren ist noch das Programm "G-DATA Internet Security" als Installations-File auf dem Desktop. Bei Bedarf können Sie dieses Programm noch installieren und mit der beigelegten Keycard für 6 Monate aktivieren.
+
+3. Ich habe festgestellt, dass für den Prozessor z.B. nur 1.1 GHz angezeigt wird. Im Angebot stand aber z.B. 2.6 GHz.
+Windows zeigt immer nur die Grundtaktung des Prozessors an, diese ist stets deutlich niedriger als "Burst" Frequenz, die der Prozessor erreicht wenn er voll ausgelastet wird. 
+
+Ein Beispiel:
+
+Sie haben ein Laptop mit einem Intel N4000 Prozessor. Der Grundtakt beträgt 1.1 GHz, der Burst Takt (also wenn volle Leistung gefordert ist) beträgt 2.6 GHz. Dennoch zeigt Ihnen Windows immer 1.1 GHz an. Sobald der Laptop stark gefordert wird, erhöht sich aber der Takt auf zum Beispiel bis zu 2.6 Ghz. Dieses Grundprinzip gilt für alle modernen Prozessoren, da damit in Zeiten von wenig Leistungsanforderung Strom gespart werden kann.
+
+Wenn Sie sich technisch etwas auskennen, können sie dies auch auf andere Art und Weise überprüfen:
+
+Gehen Sie in den Task-Manager (STRG-ALT-ENTF drücken) und dort klicken Sie ganz links auf das 2. Symbol (wenn Sie mit der Maus darüber gehen sollte "Leistung" erscheinen). Dort sehen sie dann unter "CPU" die aktuelle Auslastung in GHz. Starten Sie dann parallel ein größeres Programm (Word, ein Spiel etc.) und Sie werden sehen die Taktung des Prozessors geht sofort hoch.
+
+4. Brauche Ich für Microsoft Office 2010 Starter einen Aktivierungsschlüssel? Ist das eine Vollversion?
+Sie benötigen keinen Schlüssel, und es ist eine Vollversion. Sie können Word 2010 Starter und Excel 2010 Starter unbegrenzt und so oft nutzen wie sie wollen. Sie müssen auch kein Abo abschließen oder ähnliches. 
+
+5. Ich möchte den Namen des Standard-Benutzers "User" ändern, wie mache ich das?
+Das funktioniert wie folgt:
+
+Klicken Sie unten auf das Windows Logo (Startmenü), geben Sie dort oben im Suchfeld Computerverwaltung ein, und wählen Sie diesen Eintrag dann in der Ergebnisliste aus.
+
+Wählen Sie den Pfeil neben Lokale Benutzer und Gruppen, um den Zweig zu erweitern. 
+
+Wählen Sie Benutzer. 
+
+Klicken Sie mit der rechten Maustaste auf User, und wählen Sie Umbenennen. 
+
+Geben Sie einen neuen Namen ein. Beachten Sie, dass Sie der Administrator sein müssen, um diesen Namen zu ändern. 
+
+6. Wo wurde dieses Gerät hergestellt?
+Dieses Gerät wurde in Deutschland hergestellt. Es wurde nach ihrer individuellen Konfiguration gefertigt und dann verpackt und versiegelt. Mit ihrem Kauf unterstützen Sie Arbeitsplätze in Deutschland.
+
+7. Ich habe weitere Fragen zu meinem Gerät.
+In ihrem Paket liegt ein Ausdruck mit Kontaktmöglichkeiten. Gern helfen wir Ihnen dort weiter.
